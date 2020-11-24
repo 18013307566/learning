@@ -1,5 +1,5 @@
 from socket import *
-
+print('aaaaaaaaa')
 socked = socket()
 socked.bind(('0.0.0.0',8888))
 socked.listen(5)
